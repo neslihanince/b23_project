@@ -1,7 +1,5 @@
 public class GitCool {
-
-    public static void main(String[] args) {
-
-
-    }
+    // B23 IS LEARNING GIT
+    // B23 IS A SPECIAL NUMBER
+    // B23 IS MAKING SOME SENSE NOW
 }
